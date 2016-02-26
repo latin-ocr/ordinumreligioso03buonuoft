@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinumreligioso03buonuoft/ordinumreligioso03buonuoft_0194.png"; bbox 0 0 2404 3398; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1605 2811 2211 2817">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1605 2811 2211 2817">
+     <span class='ocr_line' id='line_1_1' title="bbox 1605 2811 2211 2817"><span class='ocrx_word' id='word_1_1' title='bbox 1605 2811 2211 2817; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 228 163 2404 3011">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 228 163 2404 3011">
+     <span class='ocr_line' id='line_1_2' title="bbox 228 163 2404 3011"><span class='ocrx_word' id='word_1_2' title='bbox 228 163 2404 3011; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1305 3049 2197 3158">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1305 3049 2197 3158">
+     <span class='ocr_line' id='line_1_3' title="bbox 1305 3049 2197 3158; baseline -0.002 -2"><span class='ocrx_word' id='word_1_3' title='bbox 1305 3073 1386 3156; x_wconf 71' lang='lat' dir='ltr'><em>io</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1421 3049 1791 3158; x_wconf 63' lang='lat' dir='ltr'><em>&lt;Maro</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1798 3076 2197 3155; x_wconf 66' lang='lat' dir='ltr'><em>mmmm</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 886 3053 1296 3202">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 886 3053 1296 3202">
+     <span class='ocr_line' id='line_1_4' title="bbox 886 3053 1296 3202; baseline 0.01 -47"><span class='ocrx_word' id='word_1_6' title='bbox 886 3106 947 3155; x_wconf 71' lang='grc' dir='ltr'><em>η</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 985 3053 1296 3202; x_wconf 55' lang='lat' dir='ltr'><em>Colleff</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 859 3107 885 3155">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 859 3107 885 3155">
+     <span class='ocr_line' id='line_1_5' title="bbox 859 3107 885 3155; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 859 3107 885 3155; x_wconf 78' lang='lat' dir='ltr'><em>L</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 338 3036 820 3159">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 338 3036 820 3159">
+     <span class='ocr_line' id='line_1_6' title="bbox 338 3036 820 3159; baseline 0.01 -8"><span class='ocrx_word' id='word_1_9' title='bbox 338 3036 568 3159; x_wconf 63' lang='lat' dir='ltr'><em>fllia</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 577 3104 820 3157; x_wconf 55' lang='lat' dir='ltr'><em>muas</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 2127 3309 2265 3320">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 2127 3309 2265 3320">
+     <span class='ocr_line' id='line_1_7' title="bbox 2127 3309 2265 3320; baseline -0.007 -2"><span class='ocrx_word' id='word_1_11' title='bbox 2127 3312 2160 3320; x_wconf 47' lang='lat'><em>⁴&gt;⁴</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 2171 3313 2194 3320; x_wconf 66' lang='lat' dir='ltr'><em>r·</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2211 3309 2265 3319; x_wconf 59' lang='lat' dir='ltr'><em>&gt;aa</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

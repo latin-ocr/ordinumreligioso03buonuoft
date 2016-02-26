@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinumreligioso03buonuoft/ordinumreligioso03buonuoft_0302.png"; bbox 0 0 2404 3398; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 195 102 2300 2940">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 195 102 2300 2940">
+     <span class='ocr_line' id='line_1_1' title="bbox 195 102 2300 2940; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 195 102 2300 2940; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 218 2978 2194 3146">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 218 2978 2194 3146">
+     <span class='ocr_line' id='line_1_2' title="bbox 280 2978 2194 3068; baseline -0.005 -22"><span class='ocrx_word' id='word_1_2' title='bbox 280 2988 487 3047; x_wconf 79' lang='lat' dir='ltr'><em>Idem</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 534 2981 609 3044; x_wconf 81' lang='grc' dir='ltr'><em>ιή</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 637 2983 936 3068; x_wconf 50' lang='lat' dir='ltr'><em>publici&amp;</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1313 2990 1406 3041; x_wconf 79' lang='lat' dir='ltr'><em>Lo</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1447 2998 1654 3041; x_wconf 39' lang='lat' dir='ltr'><em>ccccmo</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1693 2982 1877 3042; x_wconf 74' lang='lat' dir='ltr'><em>nelle</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1898 2978 2194 3055; x_wconf 67' lang='lat' dir='ltr'><em>publc&#39;clze</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 218 3065 1845 3146; baseline -0.006 -18"><span class='ocrx_word' id='word_1_9' title='bbox 218 3082 223 3087; x_wconf 87' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 314 3065 865 3146; x_wconf 68' lang='lat' dir='ltr'><em>sccplz&#39;cczcz&#39;om&#39;bzcoe</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 964 3065 970 3069; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1414 3065 1845 3121; x_wconf 65' lang='lat' dir='ltr'><em>Proceaesz&#39;om&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
